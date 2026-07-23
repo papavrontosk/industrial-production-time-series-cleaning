@@ -19,7 +19,7 @@ The analysis focuses on reproducible empirical research, including data acquisit
 ```
 .
 ├── notebooks/
-│   └── eurostat_analysis.ipynb
+│   └── eurostat_industrial_production_analysis.ipynb
 │
 ├── code/
 │   └── analysis.R
